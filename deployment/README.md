@@ -7,7 +7,7 @@ This folder contains instructions on how to deploy the **Byte42 (BYT)** token on
 ## 🔧 Requirements
 
 - Metamask installed and connected to a testnet (e.g., Sepolia)
-- Some testnet ETH (via [Sepolia Faucet](https://sepoliafaucet.com/))
+- Some testnet ETH (via [Sepolia Faucet]())
 - Remix IDE: https://remix.ethereum.org
 - Solidity version: ^0.8.22
 - OpenZeppelin Contracts (via GitHub import)
@@ -31,3 +31,4 @@ contract Byte42 is ERC20 {
         _mint(recipient, 1000 * 10 ** decimals());
     }
 }
+```
