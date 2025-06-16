@@ -56,12 +56,4 @@ This folder contains the functional and technical documentation for the **Byte42
 
 - **Network**: Ethereum Sepolia Testnet
 - **Contract Address**: `0xYourContractAddressHere`
-- **Etherscan Link**: [https://sepolia.etherscan.io/address/0xYourContractAddressHere](https://sepolia.etherscan.io/address/0xYourContractAddressHere)
-
----
-
-## 📎 Interaction Options
-
-- Remix IDE (using injected Web3 and console)
-- Etherscan "Read / Write Contract" tabs
-- Web3 frontend (e.g., web3.js, ethers.js integration)
+- **Etherscan Link**: https://sepolia.etherscan.io/address/0xYourContractAddressHere
